@@ -1,1 +1,22 @@
-{"parent":"cart.json","context":{"market":"international"},"sections":{}}
+{
+  "parent": "cart.json",
+  "context": {
+    "market": "international"
+  },
+  "sections": {
+    "cart-items": {
+      "settings": {
+        "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282"
+      },
+      "blocks": {
+      }
+    },
+    "cart-footer": {
+      "settings": {
+        "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282"
+      },
+      "blocks": {
+      }
+    }
+  }
+}
