@@ -1,5 +1,44 @@
 {
   "sections": {
+    "collage_yCrrCa": {
+      "type": "collage",
+      "blocks": {
+        "image_fTFzhV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Women-Casual-Joggers-Pants-Fashion-Streetwear-Oversized-Sports-Wide-Leg-Pants-Hip-Hop-Y2k-Sweatpants-High_95cd2405-ce85-4448-bb6d-a24d1ce72a83.webp"
+          }
+        },
+        "product_P6qiCG": {
+          "type": "product",
+          "settings": {
+            "product": "women-casual-joggers-pants-fashion-streetwear-oversized-sports-wide-leg-pants-hip-hop-y2k-sweatpants-high-waist-baggy-trousers",
+            "second_image": false
+          }
+        },
+        "image_PXCGKT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Women-Casual-Joggers-Pants-Fashion-Streetwear-Oversized-Sports-Wide-Leg-Pants-Hip-Hop-Y2k-Sweatpants-High_fe64aefd-06cb-4d93-bd22-090904d13fd9.webp"
+          }
+        }
+      },
+      "block_order": [
+        "image_fTFzhV",
+        "product_P6qiCG",
+        "image_PXCGKT"
+      ],
+      "settings": {
+        "heading": "<strong>Y2K StreetWear Collection<\/strong>",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-02c2c47f-f25c-4684-a397-0d2ff0aa93b6",
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -33,6 +72,7 @@
       "blocks": {
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
             "button_link_1": "shopify:\/\/collections\/all",
@@ -46,16 +86,16 @@
       "block_order": [
         "button"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/main-image-1.jpg",
-        "image_2": "shopify:\/\/shop_images\/main-image-6.jpg",
+        "image": "shopify:\/\/shop_images\/main-image-4.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
-        "image_behavior": "ambient",
+        "image_behavior": "fixed",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -63,6 +103,7 @@
     }
   },
   "order": [
+    "collage_yCrrCa",
     "featured_collection",
     "image_banner"
   ]
