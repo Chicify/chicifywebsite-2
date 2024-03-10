@@ -11,16 +11,24 @@
             "text": "Welcome to our store",
             "link": ""
           }
+        },
+        "announcement_wdymCx": {
+          "type": "announcement",
+          "settings": {
+            "text": "Follow us on Instagram @ChicifyApparel",
+            "link": "https:\/\/www.instagram.com\/chicifyapparel?igsh=MTZiNnFqeDRqZ2txMA%3D%3D&utm_source=qr"
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_wdymCx"
       ],
       "settings": {
         "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282",
         "show_line_separator": true,
-        "show_social": false,
-        "auto_rotate": false,
+        "show_social": true,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": true,
         "enable_language_selector": true
@@ -32,7 +40,7 @@
         "logo_position": "middle-left",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "none",
         "show_line_separator": true,
         "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282",
         "menu_color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282",
