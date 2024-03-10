@@ -1,1 +1,27 @@
-{"parent":"collection.json","context":{"market":"international"},"sections":{"banner":{"settings":{"color_scheme":"scheme-2","show_collection_image":false},"blocks":{}},"product-grid":{"settings":{"color_scheme":"scheme-1","image_ratio":"adapt","image_shape":"default","show_rating":false,"enable_quick_add":true},"blocks":{}}}}
+{
+  "parent": "collection.json",
+  "context": {
+    "market": "international"
+  },
+  "sections": {
+    "banner": {
+      "settings": {
+        "show_collection_image": false,
+        "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282"
+      },
+      "blocks": {
+      }
+    },
+    "product-grid": {
+      "settings": {
+        "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_rating": false,
+        "enable_quick_add": true
+      },
+      "blocks": {
+      }
+    }
+  }
+}

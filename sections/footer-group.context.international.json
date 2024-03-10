@@ -1,1 +1,16 @@
-{"parent":"footer-group.json","context":{"market":"international"},"sections":{"footer":{"settings":{"color_scheme":"scheme-2","newsletter_heading":"Unlock Style Secrets: Join the Chicify Insider Crew! Subscribe Now."},"blocks":{}}}}
+{
+  "parent": "footer-group.json",
+  "context": {
+    "market": "international"
+  },
+  "sections": {
+    "footer": {
+      "settings": {
+        "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282",
+        "newsletter_heading": "Unlock Style Secrets: Join the Chicify Insider Crew! Subscribe Now."
+      },
+      "blocks": {
+      }
+    }
+  }
+}
