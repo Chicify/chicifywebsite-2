@@ -29,12 +29,12 @@
         "image_PXCGKT"
       ],
       "settings": {
-        "heading": "<strong>Y2K StreetWear Collection<\/strong>",
+        "heading": "<em><strong>Y2K StreetWear Collection<\/strong><\/em>",
         "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-02c2c47f-f25c-4684-a397-0d2ff0aa93b6",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282",
         "padding_top": 0,
         "padding_bottom": 8
       }
