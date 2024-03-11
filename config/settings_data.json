@@ -123,7 +123,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/c_512_x_512_px_2.jpg",
     "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
-    "checkout_body_background_color": "#ddded0",
+    "checkout_body_background_color": "#000000",
     "checkout_input_background_color_mode": "white",
     "checkout_sidebar_background_color": "#ffe600",
     "checkout_heading_font": "Source Sans Pro",
