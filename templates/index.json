@@ -1,42 +1,19 @@
 {
   "sections": {
-    "collage_yCrrCa": {
-      "type": "collage",
-      "blocks": {
-        "image_fTFzhV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Women-Casual-Joggers-Pants-Fashion-Streetwear-Oversized-Sports-Wide-Leg-Pants-Hip-Hop-Y2k-Sweatpants-High_95cd2405-ce85-4448-bb6d-a24d1ce72a83.webp"
-          }
-        },
-        "product_P6qiCG": {
-          "type": "product",
-          "settings": {
-            "product": "women-casual-joggers-pants-fashion-streetwear-oversized-sports-wide-leg-pants-hip-hop-y2k-sweatpants-high-waist-baggy-trousers",
-            "second_image": false
-          }
-        },
-        "image_PXCGKT": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Women-Casual-Joggers-Pants-Fashion-Streetwear-Oversized-Sports-Wide-Leg-Pants-Hip-Hop-Y2k-Sweatpants-High_fe64aefd-06cb-4d93-bd22-090904d13fd9.webp"
-          }
-        }
-      },
-      "block_order": [
-        "image_fTFzhV",
-        "product_P6qiCG",
-        "image_PXCGKT"
-      ],
+    "video_6aHw4V": {
+      "type": "video",
       "settings": {
-        "heading": "<em><strong>Y2K StreetWear Collection<\/strong><\/em>",
+        "heading": "",
         "heading_size": "h2",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "card_styles": "none",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/c (512 x 512 px) (Video).mp4",
+        "video_url": "",
+        "cover_image": "shopify:\/\/shop_images\/c_512_x_512_px_2.jpg",
+        "description": "",
+        "full_width": false,
         "color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282",
-        "padding_top": 0,
-        "padding_bottom": 8
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -103,7 +80,7 @@
     }
   },
   "order": [
-    "collage_yCrrCa",
+    "video_6aHw4V",
     "featured_collection",
     "image_banner"
   ]
