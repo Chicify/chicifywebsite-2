@@ -122,8 +122,9 @@
     "cart_color_scheme": "scheme-f65e4c87-29c3-4749-920f-6abbe7395282",
     "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
-    "checkout_body_background_color": "#d2df97",
+    "checkout_body_background_color": "#6b5e5e",
     "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#000000",
     "checkout_heading_font": "Source Sans Pro",
     "checkout_body_font": "Source Sans Pro",
     "sections": {
